@@ -5,7 +5,8 @@ FastAPI + Streamlit web app. Built by Javed as a hands-on follow-up to the
 [Diabetes Prediction (Classification) project](https://github.com/mirza-javed/diabetes-prediction-app),
 on the path to becoming an Agentic AI Developer/Engineer.
 
-**Live App**: _coming soon (deployment in progress)_
+**Live App**: https://student-score-prediction-app-sqr6gdwf8ipuf7iqykue5o.streamlit.app/
+
 **GitHub Repo**: https://github.com/mirza-javed/student-score-prediction-app.git
 
 ![Actual vs Predicted Scores](actual_vs_predicted.png)
